@@ -5,3 +5,14 @@
 	padding-top: 20%;
 	padding-bottom: 20%;
 }
+
+.lingkaran {
+	display: inline-block;
+	border-radius: 50%;
+	width: 75px;
+	height: 75px;
+	margin: auto;
+	color: white;
+	background-color: mediumturquoise;
+	padding-top: 13px;
+}
