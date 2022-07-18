@@ -20,3 +20,11 @@
 .crop-img {
 	object-fit: cover;
 }
+
+.kontak {
+	background: url(/img/wp2832289-dark-world-wallpapers.jpg) no-repeat center center;
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color: white;
+}
