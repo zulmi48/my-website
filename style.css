@@ -16,3 +16,7 @@
 	background-color: mediumturquoise;
 	padding-top: 13px;
 }
+
+.crop-img {
+	object-fit: cover;
+}
